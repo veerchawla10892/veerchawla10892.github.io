@@ -1,24 +1,24 @@
 {
- "background_color": "#CC99FF",
- "theme_color": "#CC99FF",
- "start_url": "index.htm?installed=true",
  "name": "Untitled 3",
  "icons": [
   {
-   "sizes": "512x512",
    "type": "image/png",
-   "src": "icons/icon512.png"
+   "src": "icons/icon512.png",
+   "sizes": "512x512"
   },
   {
-   "sizes": "192x192",
    "type": "image/png",
-   "src": "icons/icon192.png"
+   "src": "icons/icon192.png",
+   "sizes": "192x192"
   },
   {
-   "sizes": "64x64",
    "type": "image/png",
-   "src": "icons/icon64.png"
+   "src": "icons/icon64.png",
+   "sizes": "64x64"
   }
  ],
- "display": "fullscreen"
+ "background_color": "#CC99FF",
+ "start_url": "index.htm?installed=true",
+ "display": "fullscreen",
+ "theme_color": "#CC99FF"
 }
